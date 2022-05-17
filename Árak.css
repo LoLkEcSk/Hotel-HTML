@@ -1,4 +1,3 @@
-
 table { 
     height: 300px;
     text-align: center;
@@ -93,4 +92,3 @@ body{
   .neon-button:focus::after {
 	opacity: 1;
   }
-  
