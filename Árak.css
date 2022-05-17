@@ -2,6 +2,7 @@ table {
     height: 300px;
     text-align: center;
     margin-right: 800px;
+	margin:auto;
     }
     table, th, td{
     border: 1px solid #000;
@@ -9,6 +10,12 @@ table {
     }
 body{
     background-color: cornsilk;
+}
+div{
+	padding-right:700px;
+}
+.cicus{
+padding-left: 750px;
 }
 :root {
 	--clr-neon: rgb(240, 96, 0);
