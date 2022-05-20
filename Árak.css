@@ -1,8 +1,7 @@
 table { 
     height: 300px;
     text-align: center;
-    margin-right: 800px;
-	margin:auto;
+    margin-right:200px;
     }
     table, th, td{
     border: 1px solid #000;
@@ -15,7 +14,10 @@ div{
 	padding-right:700px;
 }
 .cicus{
-padding-left: 750px;
+padding-left: 570px;
+}
+.fuck{
+	padding-right:150px;
 }
 :root {
 	--clr-neon: rgb(240, 96, 0);
@@ -83,6 +85,9 @@ padding-left: 750px;
 	background-color: var(--clr-neon);
 	z-index: -1;
 	transition: opacity 100ms linear;
+  }
+  .neon-button{
+	  margin-right:130px;
   }
   
   .neon-button:hover,
