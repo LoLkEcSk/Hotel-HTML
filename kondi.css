@@ -1,33 +1,20 @@
-.kep1{
-    float:right
-}
 body{
     background-color: cornsilk;
-}
-.kep2 {
-    width: 400px;
-    float: left;
 }
 p {
     font-size: large;
 }
-.kep3 {
-    width: 200px;
-    float: left;
+.vau{
+	font-size:x-large;
 }
-.p2 {
-    float:bottom
-
+.miau{
+	width:750px;
 }
-.kep4{
-    float: left;
+img{
+	width:750px;
 }
-.kep5{
-    width: 400px;
-}
-.kep6 {
-    float: right;
-    width: 500px;
+.mittomen{
+	width:300px;
 }
 :root {
 	--clr-neon: rgb(240, 96, 0);
