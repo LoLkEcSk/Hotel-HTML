@@ -7,6 +7,9 @@ h2{
 body {
     background-color:grey;
 }
+img{
+    width:600px;
+}
 :root {
 	--clr-neon: rgb(240, 96, 0);
 	--clr-bg: hsl(323 21% 16%);
@@ -81,3 +84,10 @@ body {
   }
   
   .neon-button:hover::before,
+  .neon-button:focus::before {
+	opacity: 1;
+  }
+  .neon-button:hover::after,
+  .neon-button:focus::after {
+	opacity: 1;
+  }
