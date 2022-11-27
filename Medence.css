@@ -11,7 +11,7 @@ body {
 	--clr-neon: rgb(240, 96, 0);
 	--clr-bg: hsl(323 21% 16%);
   }
-  
+   
   *,
   *::before,
   *::after {
