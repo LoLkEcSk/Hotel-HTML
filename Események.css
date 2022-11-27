@@ -15,7 +15,7 @@ img{
 	--clr-bg: hsl(323 21% 16%);
   }
   *,
-  *::before,
+  *::before, 
   *::after {
 	box-sizing: border-box;
   }
